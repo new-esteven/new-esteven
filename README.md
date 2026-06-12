@@ -34,7 +34,7 @@ I'm a developer who enjoys building games, experimenting with random programming
 
 Right now on im working on these projects:
 
-- Tycoon game, python
+- [Tycoon game, python](https://github.com/new-esteven/Tycoon)
 
 ## Contact
 
